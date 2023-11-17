@@ -1,0 +1,10 @@
+C:\Users\417\Downloads\TwoApp\TwoApp\bin\Debug\TwoApp.exe.config
+C:\Users\417\Downloads\TwoApp\TwoApp\bin\Debug\TwoApp.exe
+C:\Users\417\Downloads\TwoApp\TwoApp\bin\Debug\TwoApp.pdb
+C:\Users\417\Downloads\TwoApp\TwoApp\obj\Debug\TwoApp.csproj.AssemblyReference.cache
+C:\Users\417\Downloads\TwoApp\TwoApp\obj\Debug\TwoApp.Form1.resources
+C:\Users\417\Downloads\TwoApp\TwoApp\obj\Debug\TwoApp.Properties.Resources.resources
+C:\Users\417\Downloads\TwoApp\TwoApp\obj\Debug\TwoApp.csproj.GenerateResource.cache
+C:\Users\417\Downloads\TwoApp\TwoApp\obj\Debug\TwoApp.csproj.CoreCompileInputs.cache
+C:\Users\417\Downloads\TwoApp\TwoApp\obj\Debug\TwoApp.exe
+C:\Users\417\Downloads\TwoApp\TwoApp\obj\Debug\TwoApp.pdb
